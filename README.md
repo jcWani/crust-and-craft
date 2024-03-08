@@ -63,7 +63,7 @@ The Crust & Craft Application is built using the following technologies and libr
 
 [https://crust-and-craft.vercel.app/](https://crust-and-craft.vercel.app/)
 
-## 🛠 Run Locally:
+## 🛠 Run Locally
 
 <p>1. Clone the repository</p>
 
